@@ -6,7 +6,7 @@ Caeser Cipher using with different key values
 
 **NAME:** GOKUL SHARAN R
 
-**REG NO:** 212223040025
+**REG NO:** 212223040052
 
 # AIM:
 
@@ -88,9 +88,9 @@ Playfair Cipher using with different key values
 
 **DATE:** 19.03.2025
 
-**NAME:** BASKAR J
+**NAME:** GOKUL SHARAN R
 
-**REG NO:** 212223040025
+**REG NO:** 212223040052
 
 # AIM:
 
