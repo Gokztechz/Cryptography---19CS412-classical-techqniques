@@ -270,7 +270,7 @@ int main() {
     printf("Simulating Playfair Cipher\n");
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
-    strcpy(str, "BASKAR");
+    strcpy(str, "GOKUL SHARAN");
     printf("Plain text: %s\n", str);
     encryptByPlayfairCipher(str, key);
     printf("Cipher text: %s\n", str);
