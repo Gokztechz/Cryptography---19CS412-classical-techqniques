@@ -74,7 +74,7 @@ void main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/c697bc1b-adc2-448a-a30b-f826e9765f11)
+![Screenshot 2025-03-26 091425](https://github.com/user-attachments/assets/dd1faae1-c069-4b0b-9d94-0218047ddf8b)
 
 
 ## RESULT:
@@ -269,7 +269,7 @@ int main() {
     printf("Simulating Playfair Cipher\n");
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
-    strcpy(str, "BASKAR");
+    strcpy(str, "GOKUL SHARAN");
     printf("Plain text: %s\n", str);
     encryptByPlayfairCipher(str, key);
     printf("Cipher text: %s\n", str);
@@ -280,7 +280,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4f0c368c-22bc-40c2-a438-bc083fbfd0a5)
+![Screenshot 2025-03-26 091409](https://github.com/user-attachments/assets/c7e16fff-be98-4704-8647-46a94fef4e2f)
+
 
 ## RESULT:
 The program is executed successfully
@@ -369,7 +370,8 @@ for (j = 0; j < 3; j++) {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/ba4bbe1f-9b95-4c58-b00a-12cabb3e1679)
+![image](https://github.com/user-attachments/assets/d46364aa-f185-4388-bc0d-908b8ea3e4c6)
+
 
 ## RESULT:
 The program is executed successfully
@@ -381,9 +383,9 @@ Vigenere Cipher using with different key values
 
 **DATE:** 26.03.2025
 
-**NAME:** BASKAR J
+**NAME:** GOKUL SHARAN R
 
-**REG NO:** 212223040025
+**REG NO:** 212223040052
 
 # AIM:
 
