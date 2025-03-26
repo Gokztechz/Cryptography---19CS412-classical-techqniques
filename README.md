@@ -476,7 +476,8 @@ printf("%c", 65 + (value % 26));
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/863f5676-c772-4c1a-bb9d-3f4126cb90d0)
+![image](https://github.com/user-attachments/assets/0f4329a3-26ec-4ce6-829f-d02227e6aec9)
+
 
 ## RESULT:
 The program is executed successfully
